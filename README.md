@@ -16,15 +16,21 @@ METHODOLOGY
 Data was scraped from Kermit Lynch’s website https://kermitlynch.com/ using Python, leveraging V1 interface calls to extract raw JSON. Network inspection gave insight into the URIs needed to extract data about the importer's producers, wines available for purchase, wine regions, and farming types:
 
 https://kermitlynch.com/api/v1?action=getFarming  
+
 https://kermitlynch.com/api/v1?action=getGrowers 
+
 https://kermitlynch.com/api/v1?action=getWines 
+
 https://kermitlynch.com/api/v1?action=getRegions 
 
 JSON formatting was converted into tabular (CSV) files while preserving UTF-8 encoded characters and removing italicization and other HTML encoding. Only needed columns were selected and often renamed for readability. Four CSV files were created:  
  
 get_farming.csv - all farming types with their unique IDs 
+
 get_growers.csv - all producers within Kermit Lynch’s portfolio 
+
 get_inventory.csv - data on all wines currently available for purchase online
+
 get_regions.csv - all wine regions in France and Italy with their unique IDs
 
 Time was allocated to understand the data and business rules before creating an Entity Relationship Diagram and Graphical Representation in Third Normal Form. After designing the schema, the four CSV files were uploaded via SQL Developer's Import Wizard into four staging tables with defined constraints and relations.
