@@ -36,8 +36,11 @@ get_regions.csv - all wine regions in France and Italy with their unique IDs
 Time was allocated to understand the data and business rules before creating an Entity Relationship Diagram and Graphical Representation in Third Normal Form. After designing the schema, the four CSV files were uploaded via SQL Developer's Import Wizard into four staging tables with defined constraints and relations.
 
 get_farming.csv → STG_FARMING 
+
 get_regions.csv → STG_REGION 
+
 get_inventory.csv → STG_WINE 
+
 get_growers.csv → STG_GROWER
 
 
