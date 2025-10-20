@@ -47,9 +47,15 @@ Practicing Organic is the most represented farming type in both French and Itali
 
 ### Business Question 5:
 
-There are slightly more red wines than white wines. Red wines made from Pinot Noir and white wines made from Chardonnay dominate due to Burgundy’s prominence in the portfolio. All red Burgundy is made from 100% Pinot Noir and all white Burgundy is made from 100% Chardonnay. 
+There are slightly more red wines than white wines. Red wines made from Pinot Noir and white wines made from Chardonnay dominate due to Burgundy’s prominence in the portfolio. 
 
 
 ## BUSINESS SUGGESTIONS
 
-Kermit Lynch should invigorate its Italian offerings as the portfolio is dominated by France in number of wines and higher median price. While the portfolio does already offer predominantly eco-friendly wines, its Italian offerings are lacking in Organic and Biodynamic wines. Kermit Lynch should also import more wines from cooler climate regions that currently have little representation in the portfolio (e.g. Alto Adige, Savoie/Bugey/Hautes-Alpes, Jura). These regions will fare well with warmer temperatures brought by climate change. The team also suggests importing more wines made from heat resistant grape varietals such as Mourvèdre, Carignan, and Grenache, all of which are commonly grown in the Southern Rhône and Languedoc regions of France and will fare well with rising temperatures.  
+Kermit Lynch should invigorate its Italian offerings as the portfolio is dominated by France in number of wines and higher median price. While the portfolio does already offer predominantly eco-friendly wines, its Italian offerings are lacking in Organic and Biodynamic wines. Kermit Lynch should also import more wines from cool climate regions that currently have little or no representation in the portfolio- cooler climates yield wines naturally lower in alcohol, appealing to more health-conscious and younger consumers.
+
+The Savoie/Bugey/Hautes-Alpes regions in France export very little wine; due to their rarity outside of France, these regions are coveted amongst wine enthusiasts and younger sommeliers. Boosting these regions' offerings will entice younger consumers and cement Kermit Lynch's reputation as the #1 US importer of these high quality rarities. 
+
+The Northern Italian regions of Trentino-Alto-Adige, Valle D'Aosta, and Lombardy are severely underrepresented. Due to temperatures mitigated by the Alps, these regions are better protected from warming temperatures and offer high quality, lower alcohol, and generally lower price points. The sparkling wines of Lombardy serve as an excellent alternative to pricey Champagne with more stable and vine-friendly weather conditions. 
+
+For warmer regions, Kermit Lynch should focus on wines made from heat-loving French grape varietals such as Syrah, Mourvèdre, Carignan, Grenache, and Viognier, as well as the Italian varietals Vermentino, Primitivo, Aglianico, and Malvasia. 
